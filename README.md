@@ -1,5 +1,5 @@
 # EBI-Ensembl
-JS client app to query Ensemble gene API
+JS client app to query Ensemble gene REST API
 
 ## Instructions
 To run the application simply open the app.html file in a web browser (Google Chrome works best).
