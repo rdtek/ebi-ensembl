@@ -1,7 +1,7 @@
-# ebi-ensembl
+# EBI-Ensembl
 JS client app to query Ensemble gene API
 
-## instructions
+## Instructions
 To run the application simply open the app.html file in a web browser (Google Chrome works best).
 
 There are two search options:
@@ -15,7 +15,7 @@ If there are no matching results then the results table will not be displayed.
 
 ![alt text](https://github.com/rdtek/ebi-ensembl/raw/master/AppScreen.png "Screen shot of app running in web browser.")
 
-# testing
+# Testing
 
 To test this application I would first use the Ensembl website to collect correct data on a sample of genes.
 I would then run my client app inputting the same gene symbols, sequence positions and amino acid letters.
